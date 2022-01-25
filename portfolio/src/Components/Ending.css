@@ -1,0 +1,19 @@
+.end-back {
+    padding: 10rem;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.end-back> h1{
+    font-size: 40px;
+    margin-top: -100px;
+}
+
+.end-back> p{
+    margin-top:8px;
+    font-size: 32px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
